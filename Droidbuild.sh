@@ -13,6 +13,7 @@ target_gta4xlwifi(){
   TARGET_HOSTS_CAT=1
   TARGET_USES_MICROG=0
   TARGET_SUPPORTS_GVISUAL=0
+  TARGET_SUPPORTS_GMSCOMPAT=1
   target_build-device
 }
 
